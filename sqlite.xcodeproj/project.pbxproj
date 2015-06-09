@@ -147,6 +147,7 @@
 					SQLITE_ENABLE_FTS3_PARENTHESIS,
 				);
 				INSTALL_PATH = /usr/local/lib;
+				MACOSX_DEPLOYMENT_TARGET = 10.7;
 				PRODUCT_NAME = sqlite;
 				SKIP_INSTALL = YES;
 			};
@@ -164,6 +165,7 @@
 					SQLITE_ENABLE_FTS3_PARENTHESIS,
 				);
 				INSTALL_PATH = /usr/local/lib;
+				MACOSX_DEPLOYMENT_TARGET = 10.7;
 				PRODUCT_NAME = sqlite;
 				SKIP_INSTALL = YES;
 			};
